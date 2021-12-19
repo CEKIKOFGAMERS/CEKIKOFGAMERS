@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CEKIKOFGAMERS
-- 👀 I’m interested in pawn script
-- 🌱 I’m currently learning pawno syntax
+- 👀 I’m interested in pawn,python,jawascript
+- 🌱 I’m currently learning pawn,python,skrip jawa
 - 💞️ I’m looking to collaborate on none
 - 📫 How to reach me ...
 
