@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @CEKIKOFGAMERS
-- 👀 I’m interested in pawn,python,jawascript
-- 🌱 I’m currently learning pawn,python,skrip jawa
-- 💞️ I’m looking to collaborate on none
-- 📫 How to reach me ...
+-# 👋 Hello!
 
-<!---
-CEKIKOFGAMERS/CEKIKOFGAMERS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My name is [Kristoforus](https://id.wikipedia.org/wiki/Kristoforus) [Ananta](https://www.tentangnama.com/arti-nama/ananta/) Putra Magallan, Known as LoliHunter/CEKIK_OF_GAMERS because i often caught banned from Indonesian SA-MP Servers, and now i'm learning Javascript(Discord Bot, Ragemp Roleplay Servers), Pawn(SA-MP Roleplay Servers), C++(SA-MP Client PC and Android/Mobile)
+
+
+[![CEKIKOFGAMERS GitHub stats](https://github-readme-stats.vercel.app/api?username=CEKIKOFGAMERS)](https://github.com/anuraghazra/github-readme-stats)
