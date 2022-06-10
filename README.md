@@ -21,4 +21,4 @@ List where i got banned in Indonesian SA-MP Server
 
 
 
-[![CEKIKOFGAMERS GitHub stats](https://github-readme-stats.vercel.app/api?username=CEKIKOFGAMERS)](https://github.com/anuraghazra/github-readme-stats)
+[![CEKIKOFGAMERS GitHub stats](https://github-readme-stats.vercel.app/api?username=CEKIKOFGAMERS)](https://github.com/CEKIKOFGAMERS)
