@@ -18,7 +18,9 @@ List where i got banned in Indonesian SA-MP Server
 
 7.Metro Indonesia Freeroam
 
-8.and more android samp server
+8. LunarPride Roleplay
+
+9.and more android samp server
 
 
 
